@@ -6,4 +6,4 @@ npm install
 node main.js
 ```
 
-If you want to see client, clone [angular-websocket](https://bitbucket.org/tigredonorte/angular-websocket-server) repositorie.
+If you want to see client, clone [angular-websocket](https://github.com/tigredonorte/angular2-websocket) repositorie.
