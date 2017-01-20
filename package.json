@@ -1,0 +1,18 @@
+{
+  "name": "web-socket-backend",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "thompson.moreira",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "socket.io": "^1.7.2"
+  }
+}
